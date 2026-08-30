@@ -1,0 +1,13 @@
+gender,dose_micrograms,log2_dose,exposed,killed,alive
+Male,1,0,20,1,19
+Male,2,1,20,4,16
+Male,4,2,20,9,11
+Male,8,3,20,13,7
+Male,16,4,20,18,2
+Male,32,5,20,20,0
+Female,1,0,20,0,20
+Female,2,1,20,2,18
+Female,4,2,20,6,14
+Female,8,3,20,10,10
+Female,16,4,20,12,8
+Female,32,5,20,16,4
